@@ -25,6 +25,6 @@ Você pode encontrar aqui alguns dos meus projetos, como:
 <br>
 <br>
 
-  - <a href="www.linkedin.com/in/yago-fraança"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin" target="blank"></a>
-  - <a href="https://github.com/YagoLopesFranca"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo-github" target="blank"></a>
+  - <a href="www.linkedin.com/in/yago-fraança"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"></a>
+  - <a href="https://github.com/YagoLopesFranca"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo-github"></a>
 
